@@ -1,0 +1,28 @@
+configuration {
+    font: "Nerd Hack Font 10";
+    line-margin: 10;
+
+    display-ssh:    "";
+    display-run:    "";
+    display-drun:   "";
+    display-window: "";
+    display-combi:  "";
+    show-icons:     true;
+}
+
+
+
+listview {
+	lines: 4;
+	columns: 2;
+}
+
+window {
+	width: 30%;
+}
+//@theme "/usr/share/rofi/themes/sidebar-blackarch.rasi"
+//@theme "/usr/share/rofi/themes/sidebar-ghost.rasi"
+//@theme "/usr/share/rofi/themes/arthur.rasi"
+//@theme "/usr/share/rofi/themes/ghost.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+@theme "/usr/share/rofi/themes/sidebarGruvbox.rasi"

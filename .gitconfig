@@ -1,0 +1,7 @@
+[user]
+	email = 74461728+itheghost@users.noreply.github.com
+	name = itheghost
+
+[url "https://github.com/"]
+	insteadOf = gh:
+
