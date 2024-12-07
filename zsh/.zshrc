@@ -18,9 +18,10 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
-# Aliases, note you can add them to a sperate file
-alias nv="nvim"
-alias ..="cd .."
-alias pacman="sudo pacman"
-alias update="sudo pacman -Syu"
-alias msfc="/usr/bin/msfconsole"
+# --- TheFuck --- #
+eval $(thefuck --alias)
+eval $(thefuck --alias fk)
+
+# Sources
+source $HOME/Work/Code/Git/dotfiles/zsh/fzf.sh
+source $HOME/Work/Code/Git/dotfiles/zsh/alias.sh
