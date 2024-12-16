@@ -17,3 +17,13 @@ All changes made to any files will be written in here with the date the changes 
         * Changed ls to eza to have more color and icons
 * Removed `Alt-c` and `Alt-v` from **rc.lua**
 
+## Clean up
+### 16.12.2024
+
+\- Removed unnecessary lines in **.Xresources**
+
+\- Removed *jonathan* theme from **.zshrc**
+
+\- Changed nvim theme to Onedark
+
+\+ Added a new Onedark theme to awesomewm

@@ -8,7 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 
 # The theme is set to random with a list of themes that it can pick from
 ZSH_THEME="random"
-ZSH_THEME_RANDOM_CANDIDATES=("jonathan" "bira" "mlh" "af-magic")
+ZSH_THEME_RANDOM_CANDIDATES=("bira" "mlh" "af-magic")
 
 # Auto-correction
 #ENABLE_CORRECTION="true"

@@ -88,9 +88,10 @@ local themes = {
     "batman",          -- 1
 	"ghost",		   -- 2
     "gruvbox",         -- 3
+	"onedark",		   -- 4
 }
 
-local chosen_theme = themes[3]
+local chosen_theme = themes[4]
 local modkey       = "Mod1"
 local winkey       = "Mod4"
 local terminal     = "urxvtc"
