@@ -1,0 +1,9 @@
+[user]
+    email = 74461728+itheghost@users.noreply.github.com
+    name = itheghost
+
+[init]
+    defaultBranch = main
+
+[url "https://github.com/"]
+    insteadOf = gh:
